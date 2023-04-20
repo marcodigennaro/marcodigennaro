@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @marcodigennaro
-- 👀 I’m interested in materials informatics 
-- 🌱 I’m currently learning GCP
-- 💞️ I’m looking to collaborate on materials related data
+- 👀 I’m interested in materials simulations, machine learning and materials informatics 
+- 🌱 I’m currently learning github actions
+- 💞️ I’m looking to collaborate on materials research and application driven materials design
 - 📫 How to reach me m.di.gennaro@outlook.com
 
 <!---
